@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+
+
+.div-tag{
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    border-style: solid;
+    background: beige;;
+    border-color: gainsboro;
+    border-radius: 10px;
+
+}
+
+#buttonAdd{
+    background: red;
+    color: aliceblue;
+}
+
+#input-text{
+    display: inline;
+}
+
+#button-add{
+    display: inline-block;
+}
+
+#list-tag {
+    background: white;
+    margin: 5%;
+    border-radius: 10px;
+}
+
+.list-element{
+    margin-right: 15%;
+    margin-left: 15%;
+    word-wrap: break-word;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background: greenyellow;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    color: gray;
+}
+
+.delete-button{
+    border-radius: 100%;
+    float: right;
+}
